@@ -1,0 +1,22 @@
+nav .navbar-brand{
+    margin-right: 250px;
+}
+nav .verde{
+    color: green;
+}
+#formulario .titulo{
+    text-align: center;
+}
+.card{
+    text-align: center;
+}
+footer{
+    background: linear-gradient(to right, rgb(15, 15, 63), rgb(26, 26, 133), rgb(95, 95, 255));
+    color: white;
+}
+footer ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px 150px 30px 150px;
+}
